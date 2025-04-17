@@ -26,3 +26,9 @@ hashmap.c:106:11: error: unused variable 'aux' [-Werror=unused-variable]
            ^~~
 cc1.exe: all warnings being treated as errors
 842cd04
+Wed, Apr 16, 2025 11:23:16 PM: 
+ hashmap.c | 2 --
+ 1 file changed, 2 deletions(-)
+ tests:  7|4
+total_score: 30/70
+0f9815c
